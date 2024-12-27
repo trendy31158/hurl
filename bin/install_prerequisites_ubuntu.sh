@@ -22,7 +22,6 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get -y install \
     libxml2-dev \
     libssl-dev \
     python3 \
-    python3-pip \
     python3-venv \
     netcat-openbsd \
     squid \

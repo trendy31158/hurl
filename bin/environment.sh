@@ -13,8 +13,6 @@ echo "# python3"
 if command -V python3 ; then
     which python3
     python3 -V 
-    which pip
-    pip --version
 else
     echo "No python3 installed"
 fi
