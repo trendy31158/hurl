@@ -13,6 +13,7 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get -y install \
     expect \
     curl \
     net-tools \
+    build-essential \
     g++-aarch64-linux-gnu \
     libc6-dev-arm64-cross \
     libxml2-dev \
