@@ -9,7 +9,6 @@ pacman -Syu --noconfirm \
     expect \
     openssl \
     python3 \
-    python-pip \
     icu \
     base-devel \
     libxml2 \
